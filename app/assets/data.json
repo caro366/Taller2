@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "Portátil Económico",
+    "descripcion": "Portátil Económico con la mejor relación calidad-precio del mercado. Ofrece un equilibrio perfecto entre rendimiento, durabilidad y estilo, adaptándose a las necesidades de estudiantes y profesionales.",
+    "urlImagen": "https://www.alkosto.com/medias/198415602343-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzMjgxMnxpbWFnZS93ZWJwfGFHSTJMMmd3TWk4eE5EVXdPREUzTWpFeE5UazVPQzh4T1RnME1UVTJNREl6TkROZk1EQXhYemMxTUZkNE56VXdTQXwzMjk5MzM1OWViZWZiNjY2YjM0YmUxMTRhOTRmY2QxZGMzMjFjNTA5MWRiZTBlYTdhYjJmNzMwY2QwOTYyNzEw",
+    "mostrarTodo": false
+  },
+  {
+    "titulo": "Tablet Premium",
+    "descripcion": "Tablet Premium diseñado para brindar una experiencia superior. Incluye componentes de última generación que optimizan la velocidad, calidad de imagen y facilidad de uso.",
+    "urlImagen": "https://pcmartcolombia.com/storage/2024/10/Tablet-Lenovo-Tab-M10-10-LTE-64GB-4GB-Gris-ZAAF0071CO-pcmartsecurity-1-1.png",
+    "mostrarTodo": false
+  },
+  {
+    "titulo": "Auriculares Portátil",
+    "descripcion": "Auriculares Portátil con tecnología de última generación. Compatible con los estándares más recientes para asegurar una conexión estable y rápida en cualquier entorno.",
+    "urlImagen": "https://puntoscolombia.vtexassets.com/arquivos/ids/28911529-800-auto?v=638703217439600000&width=800&height=auto&aspect=true",
+    "mostrarTodo": false
+   },
+     {
+    "titulo": "Cámara Compacto",
+    "descripcion": "Cámara Compacto perfecto para viajes y movilidad. Su tamaño compacto y peso reducido lo convierten en el aliado ideal para quienes necesitan trabajar o entretenerse en movimiento.",
+    "urlImagen": "https://pro.sony/s3/2017/09/05105006/Studio-and-Broadcast-Cameras.jpg",
+    "mostrarTodo": false
+  },
+  {
+    "titulo": "Smartwatch Inalámbrico",
+    "descripcion": "Smartwatch Inalámbrico con conectividad avanzada y gran autonomía. Permite emparejarse fácilmente con múltiples dispositivos y mantiene una señal estable a larga distancia.",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4lZJiKxEc7KGVlL7nYaJ2oQHmea-gIN4uS0k-OcIJOVVFb5tjlQD34IrHSLMmQqIlnI&usqp=CAU",
+    "mostrarTodo": false
+  },
+  {
+    "titulo": "Monitor Ultrarrápido",
+    "descripcion": "Monitor Ultrarrápido que combina rendimiento y diseño elegante. Fabricado con materiales de alta calidad para garantizar resistencia y una apariencia profesional.",
+    "urlImagen": "https://www.lg.com/content/dam/channel/wcms/co/images/monitores/27gs65f-b_awp_escb_co_c/feature/ultragear-27gs65f-01-2-lg-ultragear-m.jpg",
+    "mostrarTodo": false
+  },
+   
+
+
+{
+    "titulo": "Teclado Resistente",
+    "descripcion": "Teclado Resistente fabricado con materiales de alta durabilidad. Resiste golpes, arañazos y condiciones adversas, asegurando una vida útil prolongada.",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3CCYsTxZIWcATIb2L3eyG9APoRYp0TKcqg&s",
+    "mostrarTodo": false
+  },
+{
+    "titulo": "Mouse Ligero",
+    "descripcion": "Mouse Ligero pensado para profesionales exigentes. Ofrece precisión, rapidez y una interfaz intuitiva para maximizar la productividad.",
+    "urlImagen": "https://www.steren.com.co/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/16921585e/mouse-inalambrico-1000-1500-2000-dpi.jpg",
+    "mostrarTodo": false
+  },
+
+   {
+    "titulo": "Altavoz Potente",
+    "descripcion": "Altavoz Potente con garantía de 2 años incluida. Respaldado por un servicio de atención al cliente eficiente y confiable.",
+    "urlImagen": "https://m.media-amazon.com/images/I/71iXrvgQazL.jpg",
+    "mostrarTodo": false
+  },
+  
+  {
+    "titulo": "Impresora Avanzado",
+    "descripcion": "Impresora Avanzado ideal para uso diario y trabajo remoto. Su diseño ergonómico garantiza comodidad durante largas jornadas y su batería de alta duración permite trabajar sin interrupciones.",
+    "urlImagen": "https://mediaserver.goepson.com/ImConvServlet/imconv/766fb9e69dc761e4d42e76e5bfaa647d6629a375/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=foto-ecotank-L8180-5-690x480",
+    "mostrarTodo": false
+  }
+    
+
+
+
+
+]
