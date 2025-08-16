@@ -1,7 +1,7 @@
 import { View, ScrollView, Image } from "react-native";
 import { Text, Button } from "react-native-paper";
 import { useLocalSearchParams } from "expo-router";
-import datos from "./assets/data.json";
+import data from "./assets/data.json";
 
 export default function DetalleElemento() {
   const parametros = useLocalSearchParams();
@@ -67,7 +67,7 @@ export default function DetalleElemento() {
             >
               Todos los Elementos
             </Text>
-            {datos.map((item) => (
+            {data.map((item) => (
               <View key={item.id} style={{ marginBottom: 30 }}>
                 <View style={{ alignItems: "center", marginVertical: 30 }}>
                  

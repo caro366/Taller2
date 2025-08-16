@@ -28,12 +28,7 @@ export default function App() {
       color: "#e06161ff",
       route: "lista-elementos"
     },
-    {
-      title: "Detalle de elemento",
-      icon: "account",
-      color: "#aa2ca0ff",
-      route: "detalle-elemento"
-    },
+    
     {
       title: "Formulario de registro",
       icon: "cog",
@@ -50,7 +45,7 @@ export default function App() {
       title: "Perfil de usuario",
       icon: "account",
       color: "#91898dff",
-      route: "perfil-usuario"
+      route: "lista-usuarios"
     },
     {
       title: "Lista de servicios",
